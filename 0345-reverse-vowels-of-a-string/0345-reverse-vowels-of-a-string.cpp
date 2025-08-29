@@ -4,12 +4,12 @@ public:
         int n= s.size();
         int i=0;
         int j= n-1;
-          
+          set<char>vowel = {'a','e','i','o','u','A','E','I','O','U'};
         while(i<j){
-            if(s[i]!='a' && s[i]!='e'&& s[i]!='i'&& s[i]!='o'&& s[i]!='u'&& s[i]!='A'&& s[i]!='E'&& s[i]!='I'&& s[i]!='O'&& s[i]!='U'){
+            if(!vowel.count(s[i])){
                 i++;
             }
-            else if(s[j]!='a' && s[j]!='e'&& s[j]!='i'&& s[j]!='o'&& s[j]!='u'&& s[j]!='A'&& s[j]!='E'&& s[j]!='I'&& s[j]!='O'&& s[j]!='U'){
+            else if(!vowel.count(s[j])){
                 j--;
             }
             else{
