@@ -14,8 +14,6 @@ public:
                 k=count;
             }
          }
-          
-         int j=nums[n];
          if(nums[n-1]!=n){
             return n;
          }
