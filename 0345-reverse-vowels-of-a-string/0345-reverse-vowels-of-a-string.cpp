@@ -1,24 +1,25 @@
 class Solution {
 public:
     string reverseVowels(string s) {
-        int n= s.size();
-        int i=0;
-        int j= n-1;
-          set<char>vowel = {'a','e','i','o','u','A','E','I','O','U'};
-        while(i<j){
-            if(!vowel.count(s[i])){
-                i++;
-            }
-            else if(!vowel.count(s[j])){
-                j--;
-            }
-            else{
-                 swap(s[i],s[j]);
-                i++;
-                j--;
-            }
-           
+        int n =s.size();
+     int start=0;
+     int  end=n-1;
+     set<char>vowel={'a','e','i','o','u','A','E','I','O','U'};
+
+
+     while(start<end){
+        if(!vowel.count(s[start])){
+            start++;
         }
-        return s;
+        else if(!vowel.count(s[end])){
+            end--;
+        }
+        else{
+            swap(s[start],s[end]);
+            start++;
+            end--;
+        }
+     }
+     return s;
     }
 };
