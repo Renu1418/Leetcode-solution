@@ -11,9 +11,7 @@ public:
                 buy=arr[i];
             }
             else{
-                if(profit>maxprofit){
-                    maxprofit=profit;
-                }
+                maxprofit=max(maxprofit,profit);
             }
         }
         return maxprofit;
