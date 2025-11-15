@@ -10,10 +10,9 @@ public:
             int sum = nums[i];
             if(sum==k){
                 count++;
-                sum = nums[i];
             }
 
-            if(j<n){
+            while(j<n){
                 sum = sum + nums[j];
                 if(sum ==k){
                     count++;
