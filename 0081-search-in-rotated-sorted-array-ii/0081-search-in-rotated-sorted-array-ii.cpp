@@ -10,19 +10,24 @@ public:
          if(nums[st]==nums[mid] && nums[mid]==nums[end]){
             st++;
             end--;
+            continue;
          }
          if(nums[st]<=nums[mid]){
+            if(nums[st]<=target && target<=nums[mid]){
            end=mid-1;
          }
          else{
             st=mid+1;
          }
-         if(nums[mid]<=nums[end]){
+         }
+         else{
+        if(nums[mid]<=target && target<=nums[end]){
             st=mid+1;
          }
          else{
             end=mid-1;
          }
+        }
         }
         return false;
     }
