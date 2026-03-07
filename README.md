@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Renu1418/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3798-largest-even-number](https://github.com/Renu1418/Leetcode-solution/tree/main/3798-largest-even-number/) | Easy |
 <!---LeetCode Topics End-->
