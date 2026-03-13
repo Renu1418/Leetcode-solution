@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Renu1418/Leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Renu1418/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Renu1418/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/Renu1418/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1390-four-divisors](https://github.com/Renu1418/Leetcode-solution/tree/master/1390-four-divisors) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Renu1418/Leetcode-solution/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Dynamic Programming
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Renu1418/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Renu1418/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -62,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3798-largest-even-number](https://github.com/Renu1418/Leetcode-solution/tree/main/3798-largest-even-number/) | Easy |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Renu1418/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Renu1418/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
