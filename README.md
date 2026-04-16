@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0118-pascals-triangle](https://github.com/Renu1418/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Renu1418/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Renu1418/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Renu1418/Leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Renu1418/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Renu1418/Leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
