@@ -5,13 +5,11 @@ public:
 
         unordered_set<int>st;
 
-        for(int i=0;i<n;i++){
-            st.insert(nums[i]);
-        }
-        int m = st.size();
-
-        if(m!=n){
-            return true;
+        for(int num:nums){
+            if(st.count(num)){
+                return true;
+            }
+         st.insert(num);
         }
         return false;
     }
