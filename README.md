@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Renu1418/Leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/Renu1418/Leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Renu1418/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Renu1418/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Renu1418/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Renu1418/Leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Renu1418/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Renu1418/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Renu1418/Leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Renu1418/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 | Problem Name | Difficulty |
