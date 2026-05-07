@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Renu1418/Leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Renu1418/Leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Renu1418/Leetcode-solution/tree/master/0118-pascals-triangle) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Renu1418/Leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Renu1418/Leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Renu1418/Leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/Renu1418/Leetcode-solution/tree/main/0812-largest-triangle-area/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
