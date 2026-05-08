@@ -8,13 +8,11 @@ public:
         for (int i = 0; i < n; i++) {
             int hash[256] = {0};
             for (int j = i; j < n; j++) {
-                if (hash[s[j]] == 1) {
+                if (hash[s[j]]>0) {
                     break;
                 }
-                int len = j - i + 1;
-                maxlen = max(maxlen, len);
-
-                hash[s[j]] = 1;
+                hash[s[j]]++;
+                maxlen = max(maxlen, j - i + 1);
             }
         }
         return maxlen;
