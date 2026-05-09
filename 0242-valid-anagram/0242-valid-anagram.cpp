@@ -12,12 +12,13 @@ public:
 
         for(char ch:t){
               mp[ch]--;
-
-              if(mp[ch]==0){
-                mp.erase(ch);
-              }
         }
     
-                return mp.empty();
+          for(auto it:mp){
+            if(it.second!=0){
+                return false;
+            }
+          }
+                return true;
           }
 };
