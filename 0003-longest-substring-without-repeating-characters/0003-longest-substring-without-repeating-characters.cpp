@@ -9,7 +9,8 @@ public:
             int hash[256] = {0};
             for (int j = i; j < n; j++) {
                 if (hash[s[j]]>0) {
-                    break;
+                    break;  
+                    // break ki vjh se TLE nahi aa raha
                 }
                 hash[s[j]]++;
                 maxlen = max(maxlen, j - i + 1);
