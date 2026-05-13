@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Renu1418/Leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/Renu1418/Leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Renu1418/Leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Renu1418/Leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [3798-largest-even-number](https://github.com/Renu1418/Leetcode-solution/tree/main/3798-largest-even-number/) | Easy |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Renu1418/Leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Renu1418/Leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
