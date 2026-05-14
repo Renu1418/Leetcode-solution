@@ -11,9 +11,7 @@ public:
             new_num  = new_num*10+num;
             x = x/10;
         }
-        if(new_num == old_num){
-            return true;
-        }
-        return false;
+        
+         return new_num == old_num;
     }
 };
