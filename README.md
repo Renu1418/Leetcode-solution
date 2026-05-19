@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Renu1418/Leetcode-solution/tree/main/0009-palindrome-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Renu1418/Leetcode-solution/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0812-largest-triangle-area](https://github.com/Renu1418/Leetcode-solution/tree/main/0812-largest-triangle-area/) | Easy |
 | [1390-four-divisors](https://github.com/Renu1418/Leetcode-solution/tree/master/1390-four-divisors) |
 ## Union-Find
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Renu1418/Leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/Renu1418/Leetcode-solution/tree/main/0371-sum-of-two-integers/) | Medium |
 <!---LeetCode Topics End-->
