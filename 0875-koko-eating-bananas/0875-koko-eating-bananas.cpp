@@ -3,7 +3,12 @@ public:
      long long hoursCount(vector<int>& piles,int k){
       long long h = 0;
       for(int pile:piles){
-       h += (pile + k - 1) / k;
+      int q = pile/k; 
+      int r = pile%k; 
+       h += q; 
+      if(r>0){ 
+        h+=1; 
+      }
       }
       return h;
      }
