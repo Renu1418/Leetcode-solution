@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Renu1418/Leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Renu1418/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Renu1418/Leetcode-solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Renu1418/Leetcode-solution/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Renu1418/Leetcode-solution/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Renu1418/Leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Renu1418/Leetcode-solution/tree/main/0647-palindromic-substrings/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Renu1418/Leetcode-solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Renu1418/Leetcode-solution/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3798-largest-even-number](https://github.com/Renu1418/Leetcode-solution/tree/main/3798-largest-even-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
