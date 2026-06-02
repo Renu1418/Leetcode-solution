@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Renu1418/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Renu1418/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Renu1418/Leetcode-solution/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/Renu1418/Leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0812-largest-triangle-area](https://github.com/Renu1418/Leetcode-solution/tree/main/0812-largest-triangle-area/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Renu1418/Leetcode-solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Renu1418/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Renu1418/Leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Renu1418/Leetcode-solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0739-daily-temperatures](https://github.com/Renu1418/Leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Renu1418/Leetcode-solution/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Renu1418/Leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
