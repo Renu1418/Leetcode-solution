@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Renu1418/Leetcode-solution/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Renu1418/Leetcode-solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Renu1418/Leetcode-solution/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
+| [3838-weighted-word-mapping](https://github.com/Renu1418/Leetcode-solution/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Renu1418/Leetcode-solution/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Renu1418/Leetcode-solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Renu1418/Leetcode-solution/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3798-largest-even-number](https://github.com/Renu1418/Leetcode-solution/tree/main/3798-largest-even-number/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Renu1418/Leetcode-solution/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Renu1418/Leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3838-weighted-word-mapping](https://github.com/Renu1418/Leetcode-solution/tree/main/3838-weighted-word-mapping/) | Easy |
 <!---LeetCode Topics End-->
