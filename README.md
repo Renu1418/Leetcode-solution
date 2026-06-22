@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Renu1418/Leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Renu1418/Leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Renu1418/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/Renu1418/Leetcode-solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Renu1418/Leetcode-solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Renu1418/Leetcode-solution/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Renu1418/Leetcode-solution/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Renu1418/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/Renu1418/Leetcode-solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Renu1418/Leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Renu1418/Leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Renu1418/Leetcode-solution/tree/main/0647-palindromic-substrings/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Renu1418/Leetcode-solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Renu1418/Leetcode-solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Renu1418/Leetcode-solution/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3798-largest-even-number](https://github.com/Renu1418/Leetcode-solution/tree/main/3798-largest-even-number/) | Easy |
