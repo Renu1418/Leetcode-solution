@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Renu1418/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1390-four-divisors](https://github.com/Renu1418/Leetcode-solution/tree/master/1390-four-divisors) |
 | [1732-find-the-highest-altitude](https://github.com/Renu1418/Leetcode-solution/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Renu1418/Leetcode-solution/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Renu1418/Leetcode-solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Renu1418/Leetcode-solution/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3838-weighted-word-mapping](https://github.com/Renu1418/Leetcode-solution/tree/main/3838-weighted-word-mapping/) | Easy |
