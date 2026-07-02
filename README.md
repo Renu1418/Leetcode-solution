@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Renu1418/Leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/Renu1418/Leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Renu1418/Leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Renu1418/Leetcode-solution/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Renu1418/Leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Renu1418/Leetcode-solution/tree/main/0647-palindromic-substrings/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
