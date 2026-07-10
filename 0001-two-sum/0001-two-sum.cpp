@@ -6,7 +6,7 @@ public:
         for(int i=0;i<nums.size();i++){
             int diff =target-nums[i];
 
-            if(mp.count(diff)){
+            if(mp.find(diff)!=mp.end()){
               ans = {i, mp[diff]};
             }
             mp[nums[i]] = i;
