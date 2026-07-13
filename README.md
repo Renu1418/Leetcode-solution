@@ -198,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3838-weighted-word-mapping](https://github.com/Renu1418/Leetcode-solution/tree/main/3838-weighted-word-mapping/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/Renu1418/Leetcode-solution/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
