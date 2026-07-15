@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Renu1418/Leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/Renu1418/Leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Renu1418/Leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Renu1418/Leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/Renu1418/Leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Renu1418/Leetcode-solution/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Renu1418/Leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/Renu1418/Leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0189-rotate-array/) | Medium |
