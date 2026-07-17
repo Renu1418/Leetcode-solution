@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Renu1418/Leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Renu1418/Leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Renu1418/Leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Renu1418/Leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Renu1418/Leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Renu1418/Leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Renu1418/Leetcode-solution/tree/main/0268-missing-number/) | Easy |
