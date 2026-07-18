@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Renu1418/Leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Renu1418/Leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Renu1418/Leetcode-solution/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Renu1418/Leetcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Renu1418/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Renu1418/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Renu1418/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Renu1418/Leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Renu1418/Leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Renu1418/Leetcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Renu1418/Leetcode-solution/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Renu1418/Leetcode-solution/tree/main/0704-binary-search/) | Easy |
