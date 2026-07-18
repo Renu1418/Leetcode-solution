@@ -14,7 +14,7 @@ public:
             }
       // left sorted 
        else if(nums[l]<=nums[mid]){
-         if(target>=nums[l] && target<= nums[mid]){
+         if(target>=nums[l] && target< nums[mid]){
              r = mid-1;
          }
          else{
@@ -23,7 +23,7 @@ public:
        }
      // right sorted   
        else{
-            if(target>=nums[mid] && target<= nums[r]){
+            if(target>nums[mid] && target<= nums[r]){
              l = mid+1;
          }
          else{
