@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Renu1418/Leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Renu1418/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Renu1418/Leetcode-solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Renu1418/Leetcode-solution/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Renu1418/Leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Renu1418/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Renu1418/Leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Renu1418/Leetcode-solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Renu1418/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Renu1418/Leetcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Renu1418/Leetcode-solution/tree/main/0162-find-peak-element/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Renu1418/Leetcode-solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Renu1418/Leetcode-solution/tree/main/0268-missing-number/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Renu1418/Leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Renu1418/Leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Renu1418/Leetcode-solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
