@@ -238,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Renu1418/Leetcode-solution/tree/main/1291-sequential-digits/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Renu1418/Leetcode-solution/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Renu1418/Leetcode-solution/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
