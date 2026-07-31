@@ -253,10 +253,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Renu1418/Leetcode-solution/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Renu1418/Leetcode-solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Renu1418/Leetcode-solution/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0707-design-linked-list](https://github.com/Renu1418/Leetcode-solution/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Renu1418/Leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Renu1418/Leetcode-solution/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Renu1418/Leetcode-solution/tree/main/0206-reverse-linked-list/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/Renu1418/Leetcode-solution/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
