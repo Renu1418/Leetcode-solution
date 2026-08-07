@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Renu1418/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Renu1418/Leetcode-solution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0509-fibonacci-number](https://github.com/Renu1418/Leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Renu1418/Leetcode-solution/tree/main/0647-palindromic-substrings/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Renu1418/Leetcode-solution/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Renu1418/Leetcode-solution/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0509-fibonacci-number](https://github.com/Renu1418/Leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Renu1418/Leetcode-solution/tree/main/0812-largest-triangle-area/) | Easy |
 | [1390-four-divisors](https://github.com/Renu1418/Leetcode-solution/tree/master/1390-four-divisors) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Renu1418/Leetcode-solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -271,8 +273,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Renu1418/Leetcode-solution/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Renu1418/Leetcode-solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Renu1418/Leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/Renu1418/Leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/Renu1418/Leetcode-solution/tree/main/0707-design-linked-list/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Renu1418/Leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
