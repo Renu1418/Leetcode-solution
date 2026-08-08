@@ -1,31 +1,53 @@
 class Solution {
 public:
     int myAtoi(string s) {
-      
-      int i=0;
-     while(i<s.size() && s[i]==' ') i++;
-       
-        int sign =1;
-        if( i<s.size() && s[i]=='-'){
-            sign=-1;
-            i++;
-        }
-        else if(i<s.size() && s[i]=='+'){
-            sign = +1;
-            i++;
-        }
-       long long result =0;
-       while(i<s.size() && (s[i]>='0' && s[i]<= '9')){
-            int digit = s[i] - '0';
-            
-            // to check overflow and underflow 
-            if(result > INT_MAX/ 10 || (result ==INT_MAX/10) &&  digit>7) {  
-                return sign == 1 ? INT_MAX : INT_MIN;
+        int sign = 1;
+        long long ans = 0;
+        bool digitFound = false;
+
+        for (int i = 0; i < s.size(); i++) {
+
+            // leading whitespace
+            if (!digitFound && s[i] == ' ') {
+                continue;
             }
-            
-            result = result * 10 + digit;
-            i++;
-       }
-       return result*sign;
+
+            // sign
+            if (!digitFound && s[i] == '-') {
+                sign = -1;
+                digitFound = true;
+                continue;
+            }
+
+            if (!digitFound && s[i] == '+') {
+                sign = 1;
+                digitFound = true;
+                continue;
+            }
+
+            // digit
+            if (s[i] >= '0' && s[i] <= '9') {
+                digitFound = true;
+
+                ans = ans * 10 + (s[i] - '0');
+
+                if (sign == 1 && ans > INT_MAX) {
+                    return INT_MAX;
+                }
+
+                if (sign == -1 && -ans < INT_MIN) {
+                    return INT_MIN;
+                }
+            }
+            else {
+                break;
+            }
+        }
+
+        if (!digitFound) {
+            return 0;
+        }
+
+        return sign * ans;
     }
 };
