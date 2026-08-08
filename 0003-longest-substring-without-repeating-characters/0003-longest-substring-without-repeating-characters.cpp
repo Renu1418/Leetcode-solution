@@ -1,20 +1,27 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        // Plus → + Equal → =
+        int maxlen=0;
+        unordered_set<int>st;
+        int l=0;
 
-        int maxlen = 0, n = s.length();
+        for(int r=0;r<s.size();r++){
 
-        for (int i = 0; i < n; i++) {
-            int hash[256] = {0};
-            for (int j = i; j < n; j++) {
-                if (hash[s[j]]>0) {
-                    break;  
-                    // break ki vjh se TLE nahi aa raha
+            if(st.count(s[r])){
+                while(l<=r && s[l]!=s[r]){
+                    st.erase(s[l]); 
+                    l++;
                 }
-                hash[s[j]]++;
-                maxlen = max(maxlen, j - i + 1);
+                 l++;
             }
+            else{
+                st.insert(s[r]);
+                
+                 
+            }
+            
+           maxlen = max(maxlen,r-l+1);
+
         }
         return maxlen;
     }
