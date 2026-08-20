@@ -291,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Renu1418/Leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Renu1418/Leetcode-solution/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
