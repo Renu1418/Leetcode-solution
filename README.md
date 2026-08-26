@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Renu1418/Leetcode-solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Renu1418/Leetcode-solution/tree/main/0009-palindrome-number/) | Easy |
+| [0029-divide-two-integers](https://github.com/Renu1418/Leetcode-solution/tree/main/0029-divide-two-integers/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Renu1418/Leetcode-solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Renu1418/Leetcode-solution/tree/main/0231-power-of-two/) | Easy |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Renu1418/Leetcode-solution/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/Renu1418/Leetcode-solution/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Renu1418/Leetcode-solution/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Renu1418/Leetcode-solution/tree/main/0268-missing-number/) | Easy |
