@@ -14,10 +14,6 @@ public:
             }
             st.push(i);
         }
-        while(st.size()>0){
-            ans[st.top()]=0;
-            st.pop();
-        }
         return ans;
     }
 };
