@@ -4,8 +4,6 @@ public:
         int n = temp.size();
         vector<int>ans(n);
         stack<int>st;
-        int idx=0;
-
         for(int i=0;i<n;i++){
 
             while(!st.empty() && temp[i]>temp[st.top()]){
