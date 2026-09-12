@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Renu1418/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Renu1418/Leetcode-solution/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Renu1418/Leetcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Renu1418/Leetcode-solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Renu1418/Leetcode-solution/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Renu1418/Leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Renu1418/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Renu1418/Leetcode-solution/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Renu1418/Leetcode-solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Renu1418/Leetcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Renu1418/Leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Renu1418/Leetcode-solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Renu1418/Leetcode-solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Renu1418/Leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Renu1418/Leetcode-solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Renu1418/Leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Renu1418/Leetcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Renu1418/Leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Renu1418/Leetcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Renu1418/Leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
