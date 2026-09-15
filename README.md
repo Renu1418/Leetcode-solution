@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Renu1418/Leetcode-solution/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Renu1418/Leetcode-solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Renu1418/Leetcode-solution/tree/main/0647-palindromic-substrings/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Renu1418/Leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Renu1418/Leetcode-solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Renu1418/Leetcode-solution/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Renu1418/Leetcode-solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Renu1418/Leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0409-longest-palindrome](https://github.com/Renu1418/Leetcode-solution/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Renu1418/Leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Renu1418/Leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Renu1418/Leetcode-solution/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Renu1418/Leetcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Renu1418/Leetcode-solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Renu1418/Leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Renu1418/Leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Renu1418/Leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Renu1418/Leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Renu1418/Leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
