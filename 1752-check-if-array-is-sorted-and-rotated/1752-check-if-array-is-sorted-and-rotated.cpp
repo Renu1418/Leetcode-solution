@@ -15,9 +15,6 @@ public:
             pivot++;
         }
 
-        if(pivot<=1){
-            return true;
-        } 
-      return false;
+        return pivot<=1;
     }
 };
